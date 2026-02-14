@@ -4,7 +4,7 @@ A modern bookmark manager with real-time synchronization across tabs. Built with
 
 ## Live Demo
 
-🔗 [Add your deployment URL here]
+🔗 [smart-bookmark-rosy-delta.vercel.app]
 
 ## Features
 
@@ -127,13 +127,4 @@ Also needed `REPLICA IDENTITY FULL` for DELETE events to work properly.
 3. **OAuth flows vary** - handle both PKCE and implicit flows for better compatibility
 4. **Optimistic updates** improve UX but need careful error handling and rollback logic
 
-## Deployment
 
-1. Push to GitHub
-2. Import to Vercel and add environment variables
-3. Update `NEXT_PUBLIC_SITE_URL` with Vercel URL and redeploy
-4. Update Supabase and Google OAuth redirect URLs with production URL
-
-## License
-
-MIT
