@@ -4,7 +4,7 @@ A modern bookmark manager with real-time synchronization across tabs. Built with
 
 ## Live Demo
 
-🔗 [smart-bookmark-rosy-delta.vercel.app]
+🔗 smart-bookmark-rosy-delta.vercel.app
 
 ## Features
 
