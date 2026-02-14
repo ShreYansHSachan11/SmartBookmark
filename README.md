@@ -2,9 +2,6 @@
 
 A modern bookmark manager with real-time synchronization across tabs. Built with Next.js 14, Supabase, and Tailwind CSS.
 
-## Live Demo
-
-🔗 smart-bookmark-rosy-delta.vercel.app
 
 ## Features
 
